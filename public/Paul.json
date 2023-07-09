@@ -1,0 +1,195 @@
+{
+  "frames": {
+    "Paul-0": {
+      "frame": {
+        "x": 128,
+        "y": 41,
+        "w": 16,
+        "h": 24
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 128,
+        "y": 41,
+        "w": 16,
+        "h": 24
+      },
+      "sourceSize": {
+        "w": 512,
+        "h": 512
+      }
+    },
+    "Paul-1": {
+      "frame": {
+        "x": 144,
+        "y": 41,
+        "w": 16,
+        "h": 24
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 144,
+        "y": 41,
+        "w": 16,
+        "h": 24
+      },
+      "sourceSize": {
+        "w": 512,
+        "h": 512
+      }
+    },
+    "Paul-2": {
+      "frame": {
+        "x": 160,
+        "y": 41,
+        "w": 16,
+        "h": 24
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 160,
+        "y": 41,
+        "w": 16,
+        "h": 24
+      },
+      "sourceSize": {
+        "w": 512,
+        "h": 512
+      }
+    },
+    "Paul-3": {
+      "frame": {
+        "x": 176,
+        "y": 41,
+        "w": 16,
+        "h": 24
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 176,
+        "y": 41,
+        "w": 16,
+        "h": 24
+      },
+      "sourceSize": {
+        "w": 512,
+        "h": 512
+      }
+    },
+    "Paul-4": {
+      "frame": {
+        "x": 192,
+        "y": 41,
+        "w": 16,
+        "h": 24
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 192,
+        "y": 41,
+        "w": 16,
+        "h": 24
+      },
+      "sourceSize": {
+        "w": 512,
+        "h": 512
+      }
+    },
+    "Paul-5": {
+      "frame": {
+        "x": 208,
+        "y": 41,
+        "w": 16,
+        "h": 24
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 208,
+        "y": 41,
+        "w": 16,
+        "h": 24
+      },
+      "sourceSize": {
+        "w": 512,
+        "h": 512
+      }
+    },
+    "Paul-6": {
+      "frame": {
+        "x": 224,
+        "y": 41,
+        "w": 16,
+        "h": 24
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 224,
+        "y": 41,
+        "w": 16,
+        "h": 24
+      },
+      "sourceSize": {
+        "w": 512,
+        "h": 512
+      }
+    },
+    "Paul-7": {
+      "frame": {
+        "x": 240,
+        "y": 41,
+        "w": 16,
+        "h": 24
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 240,
+        "y": 41,
+        "w": 16,
+        "h": 24
+      },
+      "sourceSize": {
+        "w": 512,
+        "h": 512
+      }
+    },
+    "Paul-8": {
+      "frame": {
+        "x": 256,
+        "y": 41,
+        "w": 16,
+        "h": 24
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 256,
+        "y": 41,
+        "w": 16,
+        "h": 24
+      },
+      "sourceSize": {
+        "w": 512,
+        "h": 512
+      }
+    }
+  },
+  "meta": {
+    "app": "sprite-sheet-to-json",
+    "version": "1.0.0",
+    "image": "0x72_DungeonTilesetII_v1.6.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 512,
+      "h": 512
+    },
+    "scale": "1"
+  }
+}
